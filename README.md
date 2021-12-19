@@ -1,1 +1,1 @@
-# ATTRIBUTE-GUIDED FASHION IMAGE RETRIEVAL BY ITERATIVE SIMILARITY LEARNING
+# Attribute-guided Fashion Image Retrieval By Iterative Similarity Learning
